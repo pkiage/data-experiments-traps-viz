@@ -1,0 +1,82 @@
+Data experiment traps: biases, fallacies, malpractice, and heuristics
+
+* Intended as vocabulary list for further research and awareness therefore vocabulary aren't all distinct to each other
+
+Cognitive & emotional
+    I can see I'm right bias
+        Anchoring and adjustment bias
+        Belief perseverance biases
+        Choice-supportive bias
+        Confirmation bias
+        Congruence bias
+        Conservatism bias
+        Information-processing biases 
+        Post-purchase rationalisation
+    Social dynamics bias
+        Acquiescence bias
+        Agreement bias
+        Authority bias
+        Courtesy bias
+        Demand characteristics bias
+        Funding bias
+        Precision bias
+        Publication bias
+        Self-serving bias
+        Social desirability bias
+        Status quo bias
+    We all have the same 24 hours bias
+        Attribution/attributional bias
+        Correspondence bias
+        Cultural bias
+        Fundamental attribution bias
+        Just-world fallacy
+        Representativeness Bias
+    I find patterns and insights other can't bias
+        Apophenia
+        Framing Bias
+        Frequency illusion
+        Overconfidence bias
+        Pareidolio
+
+Data selection, sampling, & collection
+    Participants
+        Ascertainment bias
+        Attrition bias
+        Cherry picking
+        Healthy user bias
+        Participation bias
+        Sampling bias
+        Self-selection bias
+        Spectrum bias
+        Survivorship bias
+        Susceptibility bias
+        Volunteer bias
+    Responses
+        Data fabrication 
+        Data Missing at random (MAR)
+        Data Missing not at random (MNAR)
+        Inappropriate imputation and extrapolation 
+        Information bias
+        Observer bias
+        Recall bias
+        Response bias
+    Variables
+        Omitted variable bias
+        Uncontrolled (or inappropriately controlled) extraneous variables
+    Condition, intervention, & time
+        Indication bias
+        Lead time bias
+        Length time bias
+        Protopathic bias
+        Time interval
+
+Analysis method & outcomes
+    Extension neglect
+        Base rate fallacy
+        Duration neglect
+        Insensitivity to sample size
+        Peak-end bias
+    Segmentation
+        Simpson's paradox
+    Intentional
+        Data dredging

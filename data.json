@@ -1,0 +1,241 @@
+{
+  "name": "Data Experiment Traps",
+  "children": [
+    {
+      "name": "Cognitive & Emotional bias",
+      "children": [
+        {
+          "name": "I can see I'm right bias",
+          "children": [
+            {
+              "name": "Anchoring and adjustment bias"
+            },
+            {
+              "name": "Belief perseverance biases"
+            },
+            {
+              "name": "Choice-supportive bias"
+            },
+            {
+              "name": "Confirmation biasive"
+            },
+            {
+              "name": "Congruence bias"
+            },
+            {
+              "name": "Conservatism bias"
+            },
+            {
+              "name": "Information-processing biases"
+            },
+            {
+              "name": "Post-purchase rationalisation"
+            }
+          ]
+        },
+        {
+          "name": "Social dynamics bias",
+          "children": [
+            {
+              "name": "Acquiescence bias"
+            },
+            {
+              "name": "Agreement bias"
+            },
+            {
+              "name": "Authority bias"
+            },
+            {
+              "name": "Courtesy  bias"
+            },
+            {
+              "name": "Demand characteristics bias"
+            },
+            {
+              "name": "Funding bias"
+            },
+            {
+              "name": "Precision bias"
+            },
+            {
+              "name": "Publication bias"
+            },
+            {
+              "name": "Self-serving bias"
+            },
+            {
+              "name": "Social desirability bias"
+            },
+            {
+              "name": "Status quo bias"
+            }
+          ]
+        },
+        {
+          "name": "Same 24 hours bias",
+          "children": [
+            {
+              "name": "Attribution/attributional bias"
+            },
+            {
+              "name": "Correspondence bias"
+            },
+            {
+              "name": "Cultural bias"
+            },
+            {
+              "name": "Fundamental attribution bias"
+            },
+            {
+              "name": "Just-world fallacy"
+            },
+            {
+              "name": "Representativeness bias"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Data selection, sampling, & collection",
+      "children": [
+        {
+          "name": "Participants",
+          "children": [
+            {
+              "name": "Ascertainment bias"
+            },
+            {
+              "name": "Attrition bias"
+            },
+            {
+              "name": "Cherry picking"
+            },
+            {
+              "name": "Healthy user bias"
+            },
+            {
+              "name": "Participation bias"
+            },
+            {
+              "name": "Sampling bias"
+            },
+            {
+              "name": "Self-selection bias"
+            },
+            {
+              "name": "Spectrum bias"
+            },
+            {
+              "name": "Survivorship bias"
+            },
+            {
+              "name": "Susceptibility bias"
+            },
+            {
+              "name": "Volunteer bias"
+            }
+          ]
+        },
+        {
+          "name": "Responses",
+          "children": [
+            {
+              "name": "Data fabrication"
+            },
+            {
+              "name": "Data Missing at random (MAR)"
+            },
+            {
+              "name": "Data Missing not at random (MNAR)"
+            },
+            {
+              "name": "Inappropriate imputation and extrapolation"
+            },
+            {
+              "name": "Information bias"
+            },
+            {
+              "name": "Observer bias"
+            },
+            {
+              "name": "Recall bias"
+            },
+            {
+              "name": "Response bias"
+            }
+          ]
+        },
+        {
+          "name": "Variables",
+          "children": [
+            {
+              "name": "Omitted variable bias"
+            },
+            {
+              "name": "Uncontrolled (or inappropriately controlled) extraneous variables"
+            }
+          ]
+        },
+        {
+          "name": "Condition, intervention, & time",
+          "children": [
+            {
+              "name": "Indication bias"
+            },
+            {
+              "name": "Lead time bias"
+            },
+            {
+              "name": "Length time bias"
+            },
+            {
+              "name": "Protopathic bias"
+            },
+            {
+              "name": "Time interval bias"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Analysis method & outcomes",
+      "children": [
+        {
+          "name": "Extention neglect",
+          "children": [
+            {
+              "name": "Base rate fallacy"
+            },
+            {
+              "name": "Duration neglect"
+            },
+            {
+              "name": "Insensitivity to sample size"
+            },
+            {
+              "name": "Peak-end bias"
+            }
+          ]
+        },
+        {
+          "name": "Segmentation",
+          "children": [
+            {
+              "name": "Simpson's paradox"
+            }
+          ]
+        },
+        {
+          "name": "Intentional",
+          "children": [
+            {
+              "name": "Data dredging"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
