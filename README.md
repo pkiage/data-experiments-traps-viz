@@ -47,17 +47,40 @@ Obtain SVG from web page using software ([SVGExport.io](https://svgexport.io/), 
 1. Inspect Element `fn + f12`
 2. Copy SVG contained in body class main
 
-#### Further edits
+### SVG Further edits
 
 For further edits export as SVG to edit in various vector graphic editors (Adobe Illustrator, BoxySVG, LibreOffice - Draw, Inkscape etc.)
 
 Consider adding assets created/edited in other software (Adobe Creative Cloud, Canva, Figma, Microsoft Office etc.)
+
+#### Tips
+
+- Change colors from [style.css](https://github.com/pkiage/data-experiments-traps-viz/blob/master/style.css) or vector editing software
+- If coloring in vector software e.g. Adobe Illustrator
+    - For text and shapes fill 
+    - For lines fill stroke
+    - To select multiple either in Adobe Illustrator either use direct selection tool or press shift while selecting
+- Ctrl + or Ctrl - to zoom out and in respectively
+- SVG from browswer extention preferable because from pdf tends to create letters to outlines rather than editable text ([source](https://community.adobe.com/t5/illustrator-discussions/imported-svg-but-can-t-change-text/td-p/12739931))
+
 
 ## Inspiration
 
 ### Concept & Implementation
 
 - [pkiage research-contribution-semantic-strategies-viz Github Repository](https://github.com/pkiage/research-contribution-semantic-strategies-viz)
+
+
+#### Accessibility
+
+- [Adobe Color](https://color.adobe.com/create/color-accessibility)
+- [Color Brewer 2.0](https://colorbrewer2.org/#type=qualitative&scheme=Dark2&n=3)
+    - `#7570b3`
+    - `#d95f02`
+    - `#1b9e77`
+- [Colour me better: fixing figures for colour blindness](https://www.nature.com/articles/d41586-021-02696-z)
+- [Colorgorical](http://vrl.cs.brown.edu/color)
+- [i want hue](https://medialab.github.io/iwanthue/)
 
 ### Data
 
