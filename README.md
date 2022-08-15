@@ -196,7 +196,7 @@ nvm use v17.0.0
 
 ```folder-structure 
 ├── sample-edited                         ### Folder containing samples of raw SVG edited in vector processing software
-|    ├── edited-sampleDocument.svg        ### Sample edited SVG saved as PDF
+|    ├── edited-sampleDocument.svg        ### Sample edited SVG saved as PDF (for best view in Github look at PNG since PDF might be distorted during rendering)
 |    ├── edited-sampleImage.svg           ### Sample edited SVG exported as transparent PNG
 |    └── edited-sampleSVG.svg             ### Sample edited SVG
 ├── sample-raw                            ### Folder containing samples of raw SVG obtained from running `npx parcel index.html`
