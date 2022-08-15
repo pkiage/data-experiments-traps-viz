@@ -33,7 +33,21 @@ Change name and children in [data.json](https://github.com/pkiage/research-contr
 
 ### SVG
 
+#### Obtain
+
+#### Print
+
+Print page (landscape layout) and open in application such as Adobe Illustrator
+
+##### Browser Extention
 Obtain SVG from web page using software ([SVGExport.io](https://svgexport.io/), [SVG Gobbler](https://github.com/rossmoody/svg-gobbler) etc.)
+
+##### Inspect Element
+
+1. Inspect Element `fn + f12`
+2. Copy SVG contained in body class main
+
+#### Further edits
 
 For further edits export as SVG to edit in various vector graphic editors (Adobe Illustrator, BoxySVG, LibreOffice - Draw, Inkscape etc.)
 
@@ -151,6 +165,8 @@ nvm use v17.0.0
 ├── main.js                               ### Javascript that takes i) data.json as data, ii) style.css styling, and iii) d3 library for visualization to create SVG
 ├── package-lock.json                     ### [describes the exact tree that was generated after npm i](https://docs.npmjs.com/files/package-lock.json/)
 ├── package.json                          ### [project metadata](https://docs.npmjs.com/cli/v8/configuring-npm/package-json) (replace description and author)
-├── style.css                             ### CSS styles for visualization
-└── svgexport-raw-example.svg             ### Raw export of SVG extrated from browser - edited further to improve presentation
+├── raw-browserExtentionExtract.svg       ### Raw export of SVG extrated from browser extension before further edits
+├── raw-PDFillustratorExtract.svg         ### Raw export of SVG obtained from saving PDF obtained from browser then opening in Adobe Illustrator then saving as svg
+├── raw-printPDF.svg                      ### Raw export of PDF printed from browser
+└── style.css                             ### CSS styles for visualization
 ```
