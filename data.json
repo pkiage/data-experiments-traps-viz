@@ -173,7 +173,7 @@
               "name": "Omitted variable bias"
             },
             {
-              "name": "Uncontrolled (or inappropriately controlled) extraneous variables"
+              "name": "Uncontrolled extraneous variables"
             }
           ]
         },
