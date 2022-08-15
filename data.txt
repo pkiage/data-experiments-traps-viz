@@ -31,7 +31,7 @@ Cognitive & emotional
         Fundamental attribution bias
         Just-world fallacy
         Representativeness Bias
-    I find patterns and insights other can't bias
+    Pattern and insight discovery bias
         Apophenia
         Framing Bias
         Frequency illusion
@@ -62,7 +62,7 @@ Data selection, sampling, & collection
         Response bias
     Variables
         Omitted variable bias
-        Uncontrolled (or inappropriately controlled) extraneous variables
+        Uncontrolled extraneous variables
     Condition, intervention, & time
         Indication bias
         Lead time bias
