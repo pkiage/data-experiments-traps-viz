@@ -1,7 +1,5 @@
 # Data Experiment Traps: Biases, Fallacies, Malpractice, and Heuristics
 
-*Transparent PNG below looks best on light background e.g. white*
-
 ![sampleImage](sample-edited/edited-sampleImage.png)
 
 ## To Run
@@ -197,7 +195,7 @@ nvm use v17.0.0
 ```folder-structure 
 ├── sample-edited                         ### Folder containing samples of raw SVG edited in vector processing software
 |    ├── edited-sampleDocument.svg        ### Sample edited SVG saved as PDF (for best view in Github look at PNG since PDF might be distorted during rendering)
-|    ├── edited-sampleImage.svg           ### Sample edited SVG exported as transparent PNG
+|    ├── edited-sampleImage.svg           ### Sample edited SVG exported as PNG with white background
 |    └── edited-sampleSVG.svg             ### Sample edited SVG
 ├── sample-raw                            ### Folder containing samples of raw SVG obtained from running `npx parcel index.html`
 |    ├── raw-browserExtentionExtract.svg  ### Raw export of SVG extrated from browser extension before further edits
