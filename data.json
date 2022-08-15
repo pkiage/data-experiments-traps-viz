@@ -93,6 +93,26 @@
               "name": "Representativeness bias"
             }
           ]
+        },
+        {
+          "name": "Pattern and insight discovery bias",
+          "children": [
+            {
+              "name": "Apophenia"
+            },
+            {
+              "name": "Framing bias"
+            },
+            {
+              "name": "Frequency illusion"
+            },
+            {
+              "name": "Overconfidence bias"
+            },
+            {
+              "name": "Pareidolio"
+            }
+          ]
         }
       ]
     },
