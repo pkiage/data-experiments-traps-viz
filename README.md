@@ -1,5 +1,9 @@
 # Data Experiment Traps: Biases, Fallacies, Malpractice, and Heuristics
 
+*Transparent PNG below looks best on light background e.g. white*
+
+![sampleImage](sample-edited/edited-sampleImage.png)
+
 ## To Run
 
 Tested on Ubuntu
@@ -62,7 +66,8 @@ Consider adding assets created/edited in other software (Adobe Creative Cloud, C
     - To select multiple either in Adobe Illustrator either use direct selection tool or press shift while selecting
 - Ctrl + or Ctrl - to zoom out and in respectively
 - SVG from browswer extention preferable because from pdf tends to create letters to outlines rather than editable text ([source](https://community.adobe.com/t5/illustrator-discussions/imported-svg-but-can-t-change-text/td-p/12739931))
-
+- Bulk edit fonts in Adobe Illustrator
+    - Font: `Type > Find/Replace Font... > Change all`
 
 ## Inspiration
 
@@ -73,6 +78,7 @@ Consider adding assets created/edited in other software (Adobe Creative Cloud, C
 
 #### Accessibility
 
+Color:
 - [Adobe Color](https://color.adobe.com/create/color-accessibility)
 - [Color Brewer 2.0](https://colorbrewer2.org/#type=qualitative&scheme=Dark2&n=3)
     - `#7570b3`
@@ -81,6 +87,14 @@ Consider adding assets created/edited in other software (Adobe Creative Cloud, C
 - [Colour me better: fixing figures for colour blindness](https://www.nature.com/articles/d41586-021-02696-z)
 - [Colorgorical](http://vrl.cs.brown.edu/color)
 - [i want hue](https://medialab.github.io/iwanthue/)
+
+Font:
+- [Designing Effective Scientific Presentations](https://www.ibiology.org/professional-development/scientific-presentations/)
+- Sans Serif font e.g. Trebuchet MS
+- Bulk edit
+    - Select text from layers (select multiple by press Ctrl while selecting)
+    - Change position if necessary
+    - Type > Size > (select ideal font size)
 
 ### Data
 
@@ -180,7 +194,16 @@ nvm use v17.0.0
 
 ## Folder Structure
 
-```folder-structure       
+```folder-structure 
+├── sample-edited                         ### Folder containing samples of raw SVG edited in vector processing software
+|    ├── edited-sampleDocument.svg        ### Sample edited SVG saved as PDF
+|    ├── edited-sampleImage.svg           ### Sample edited SVG exported as transparent PNG
+|    └── edited-sampleSVG.svg             ### Sample edited SVG
+├── sample-raw                            ### Folder containing samples of raw SVG obtained from running `npx parcel index.html`
+|    ├── raw-browserExtentionExtract.svg  ### Raw export of SVG extrated from browser extension before further edits
+|    ├── raw-PDFillustratorExtract.svg    ### Raw export of SVG obtained from saving PDF obtained from browser then opening in Adobe Illustrator then saving as SVG
+|    └── raw-printPDF.svg                 ### Raw export of PDF printed from browser
+|
 ├── .gitignore                            ### Files and directories to ignore from git history
 ├── data.json                             ### Data used in algorithmic design
 ├── data.txt                              ### data.json data provided in human readable format
@@ -188,8 +211,5 @@ nvm use v17.0.0
 ├── main.js                               ### Javascript that takes i) data.json as data, ii) style.css styling, and iii) d3 library for visualization to create SVG
 ├── package-lock.json                     ### [describes the exact tree that was generated after npm i](https://docs.npmjs.com/files/package-lock.json/)
 ├── package.json                          ### [project metadata](https://docs.npmjs.com/cli/v8/configuring-npm/package-json) (replace description and author)
-├── raw-browserExtentionExtract.svg       ### Raw export of SVG extrated from browser extension before further edits
-├── raw-PDFillustratorExtract.svg         ### Raw export of SVG obtained from saving PDF obtained from browser then opening in Adobe Illustrator then saving as svg
-├── raw-printPDF.svg                      ### Raw export of PDF printed from browser
 └── style.css                             ### CSS styles for visualization
 ```
