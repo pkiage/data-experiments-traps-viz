@@ -98,6 +98,12 @@ Font:
 
 DYOR :)
 
+- [Category:Cognitive biases](https://en.wikipedia.org/wiki/Category:Cognitive_biases)
+- [Category:Heuristics](https://en.wikipedia.org/wiki/Category:Heuristics)
+- [List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
+- [List of fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)
+- [Misuse of statistics](https://en.wikipedia.org/wiki/Misuse_of_statistics)
+
 ## Fixes if "To Run" has errors
 
 ### Update Node
