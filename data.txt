@@ -33,6 +33,7 @@ Cognitive & emotional
         Representativeness bias
     Superior pattern and insight discovery bias
         Apophenia
+        Attribute substitution
         Availability heuristic
         Correlative-based fallacies
         Framing bias
@@ -41,6 +42,7 @@ Cognitive & emotional
         Overconfidence bias
         Overfitting
         Pareidolio
+        Representativeness heuristic
         Salience bias
         Streetlight effect
         Texas sharpshooter fallacy
