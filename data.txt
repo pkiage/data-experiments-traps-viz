@@ -30,13 +30,21 @@ Cognitive & emotional
         Cultural bias
         Fundamental attribution bias
         Just-world fallacy
-        Representativeness Bias
-    Pattern and insight discovery bias
+        Representativeness bias
+    Superior pattern and insight discovery bias
         Apophenia
-        Framing Bias
+        Availability heuristic
+        Correlative-based fallacies
+        Framing bias
         Frequency illusion
+        Hindsight bias
         Overconfidence bias
+        Overfitting
         Pareidolio
+        Salience bias
+        Streetlight effect
+        Texas sharpshooter fallacy
+        Quantitative fallacy
 
 Data selection, sampling, & collection
     Participants
@@ -77,6 +85,9 @@ Analysis method & outcomes
         Insensitivity to sample size
         Peak-end bias
     Segmentation
+        Ecological fallacy
+        Fallacy of division
         Simpson's paradox
     Intentional
         Data dredging
+        HARKing
