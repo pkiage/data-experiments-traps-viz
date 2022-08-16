@@ -4,13 +4,11 @@ Data experiment traps: biases, fallacies, malpractice, and heuristics
 
 Cognitive & emotional
     I can see I'm right bias
-        Anchoring and adjustment bias
         Belief perseverance biases
         Choice-supportive bias
         Confirmation bias
         Congruence bias
         Conservatism bias
-        Information-processing biases 
         Post-purchase rationalisation
     Social dynamics bias
         Acquiescence bias
@@ -31,14 +29,17 @@ Cognitive & emotional
         Fundamental attribution bias
         Just-world fallacy
         Representativeness bias
-    Superior pattern and insight discovery bias
+    Pattern and insight discovery bias
+        Anchoring and adjustment bias
         Apophenia
         Attribute substitution
         Availability heuristic
         Correlative-based fallacies
+        Effort bias
         Framing bias
         Frequency illusion
         Hindsight bias
+        Information-processing biases 
         Overconfidence bias
         Overfitting
         Pareidolio
