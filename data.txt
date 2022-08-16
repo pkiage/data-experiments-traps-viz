@@ -3,12 +3,13 @@ Data experiment traps: biases, fallacies, malpractice, and heuristics
 * Intended as vocabulary list for further research and awareness therefore vocabulary aren't all distinct to each other
 
 Cognitive & emotional
-    I can see I'm right bias
+    I'm right and I'll show it bias
         Belief perseverance biases
         Choice-supportive bias
         Confirmation bias
         Congruence bias
         Conservatism bias
+        Overconfidence bias
         Post-purchase rationalisation
     Social dynamics bias
         Acquiescence bias
@@ -29,7 +30,7 @@ Cognitive & emotional
         Fundamental attribution bias
         Just-world fallacy
         Representativeness bias
-    Pattern and insight discovery bias
+    Superior pattern and insight discovery bias
         Anchoring and adjustment bias
         Apophenia
         Attribute substitution
